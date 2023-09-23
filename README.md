@@ -1,3 +1,15 @@
+Kubernetes-Managed Django Todo List Application
+In this project, we cloned a Django Todo List application from a GitHub
+repository, containerized it using a Dockerfile, and then pushed the
+Dockerimage to DockerHub. We then deployed this application on
+Kubernetes using a deployment.yaml file.
+Clone the GitHub Repository --> Create a Dockerfile -->
+Build and Tag the Docker Image --> Push the Docker Image to
+DockerHub --> Set Up a Kubernetes Cluster -->Create a
+Deployment Configuration-->Apply the Kubernetes
+Deployment
+
+
 # django-todo
 A simple todo app built with django
 
